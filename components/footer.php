@@ -108,7 +108,7 @@
                 <div class="container" >
                     <div class="row align-items-center">
                         <div class="col-lg-6 col-sm-7 text-center">
-                            <p class="mb-0 f_400 "><b>{Copyright by NUSIMEX INTERNATIONAL, 2020}</b></p>
+                            <p class="mb-0 f_400 "><b>{Rishabh Sharma Designs}</b></p>
                         </div>
                         
                     </div>
